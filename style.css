@@ -1,0 +1,110 @@
+html,body{
+ padding:0px;
+ margin: 0px;
+ font-family: 'Patrick Hand', cursive;
+ font-weight: lighter;
+ background-color: black;
+ color:pink;
+}
+head{
+
+
+
+
+
+}
+.ButtonContainer{
+
+
+
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  height:70px;
+  align-items: center;
+  width:100%;
+
+
+
+
+}
+
+.box1{
+  background-color: white;
+}
+
+.box2{
+  background-color: white;
+}
+.box3{
+  background-color: white;
+}
+.box4{
+  background-color: white;
+}
+
+
+
+.mainContainer{
+
+
+
+
+}
+.ImageContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+
+
+div img:hover{
+  filter: hue-rotate(50deg);
+
+}
+
+.a1{
+
+
+
+}
+
+p{
+
+  font-size: 24px;
+  font-family: 'Lora', serif;
+
+
+
+}
+
+.a2{
+
+  color: #e6bb66;
+  width: 100%;
+}
+
+.blue2{
+  color:violet;
+}
+.blue4{
+  color:yellow;
+}
+
+h1{
+  font-size: 25px;
+}
+
+.bird{
+
+  background-image: url("bird.gif");
+}
+iframe{
+  background-color: white;
+}
+.vid{
+  background-color: white;
+  padding-left: 15%;
+}
